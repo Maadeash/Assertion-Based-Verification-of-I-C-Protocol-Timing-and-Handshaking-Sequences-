@@ -152,7 +152,11 @@ endmodule
 ```
 ### Simulation Output
 
------ Paste the output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73311090-0c5f-40b0-b956-05740ae42358" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20f9df23-ffb6-4839-88e8-bbefeb5640f2" />
+
 
 ### Result
 The Assertion-Based Verification of the I²C protocol timing and handshaking sequences was successfully carried out using SystemVerilog.Assertions effectively verified setup, hold, start, and stop conditions, ensuring reliable communication as per the I²C protocol specification.
